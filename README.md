@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Smartypants News</title>
+        <title>Smartypants Studios</title>
     </head>
     <body>
       <p>This Smartypants co. website is currently under construction. It will be completed before you can even say ojoifjopajfpoajdojfodsijfodjfojsdojfopsdjofjposjdofcjosdfoewjiorfoesihfdp and explain what it means to your friends and family!</p>
